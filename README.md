@@ -1,9 +1,8 @@
-## JN Home Needs
-
 _Welcome to our product's web page. 
 Here we have the details of our products and their prices listed below._
 
 #### SOAPS
+
 | SOAP | PRICE |
 |---|---|
 | Sandal :deciduous_tree: | Rs.35/- |
@@ -20,3 +19,8 @@ For any customized soaps, kindly inform 1 week prior.
 We are also providing **washing liquid** in a very low price.
 
 Washing Liquid(1L) = Rs.80/-
+
+#### CONTACT DETAILS
+**J NIRMALA DEVI**
+:telephone_receiver: 9942918708
+ORDERS CAN ALSO BE PLACED IN WHATSAPP USING THE SAME NUMBER.
