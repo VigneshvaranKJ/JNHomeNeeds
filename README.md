@@ -4,7 +4,7 @@ _Welcome to our product's web page. Here we have the details of our products and
 
 | SOAP | PRICE |
 |---|---|
-| Sandal :deciduous_tree: | Rs.35/- |
+| Sandal  🌳 | Rs.35/- |
 | Goat Milk :goat:	 | Rs.40/- |
 | Red Wine :wine_glass: | Rs.35/- |
 | Kuppai Meni :shamrock: | Rs.35/- |
