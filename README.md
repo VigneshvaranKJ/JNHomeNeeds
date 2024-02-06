@@ -1,5 +1,4 @@
-_Welcome to our product's web page. 
-Here we have the details of our products and their prices listed below._
+_Welcome to our product's web page. Here we have the details of our products and their prices listed below._
 
 #### SOAPS
 
@@ -17,7 +16,6 @@ Here we have the details of our products and their prices listed below._
 For any customized soaps, kindly inform 1 week prior.
 
 We are also providing **washing liquid** in a very low price.
-
 Washing Liquid(1L) = Rs.80/-
 
 #### CONTACT DETAILS
