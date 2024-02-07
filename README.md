@@ -21,6 +21,6 @@ Washing Liquid(1L) = Rs.80/-
 #### CONTACT DETAILS
 **J NIRMALA DEVI**
 
-:telephone_receiver: 9942918708
+:telephone_receiver: [9942918708](<a href="994 291 8708">)
 
 ORDERS CAN ALSO BE PLACED IN WHATSAPP USING THE SAME NUMBER.
